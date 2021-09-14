@@ -1,2 +1,2 @@
 Bước 1 : Tạo project theo cấu trúc.
-![Alt text](./image/1png.png?raw=true "Title")
+![Alt text](relative/path/to/images/1png.png?raw=true "Title")
