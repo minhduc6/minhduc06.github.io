@@ -1,6 +1,5 @@
 <template>
   <h1>Film List</h1>
-  <h2>ALo</h2>
   <FilmList :films="films" />
 </template>
 
