@@ -43,7 +43,7 @@ Kết quả :
 ![7](https://user-images.githubusercontent.com/72613060/133954303-365f9dfb-bbca-4256-a8f1-52167dda817d.png)
 
 
-Bước 5 : Delete Book thì cũng tương tự tìm kiềm theo id rồi xóa
+Bước 5 : Delete Book thì cũng tương tự tìm kiềm theo id rồi xóa và redirect về allbooks
 
 
 
