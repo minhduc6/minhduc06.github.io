@@ -1,43 +1,73 @@
-Bước 1 : Viết tạo ra RestController để Restful API
-
-Bước 2 Viết các hàm Imp từ class Dao xử lý logic
-
-
-Bước 3: sử dụng @Authorwired để tiêm class Dao vào Controller
-
-
-Bước 4 : gọi các hàm viết ở BookDao ở các HTTP method thực hiện các công việc tìm kiếm id ,thêm , xóa , sửa theo id
-
-Bước 5 : Xử lý Exception nếu như tìm kiếm id không có trong list book ta đưa ra Exception : Not Found Exception
-
-
-Bước 6 : Test Kết quả trên POSTMAN
-
-Lấy ra list book :
-
-
-
-
-Tìm kiếm theo id :
-
-
-
-
-Nếu Không Có đưa ra Exception :
-
-
-
-
-Thêm sách vào List :
+Bước 1 : Viết BookController để thực hiện method HTTP Get,POST,... và gọi các hàm xử lý logic từ bài trước để xử lý
 
 
 
 
 
-Update Theo ID:
+Bước 2 : Để hiển thị list danh sách các em tạo  file html allbooks ở đây em có sử dụng bootstrap để hiển thị :
+
+sử dụng thymleaf for-each để hiển thị:
 
 
 
 
-Delete Theo ID :
+
+Đât là kết quả : 
+
+
+Bước 3  : Để thêm 1 book mơi em tạo ra file html book_form như trên :
+
+
+
+
+Kết Quả :
+
+Bước 4 : Update book theo id thì cũng như tạo 1 book mới nhưng khi add id chưa có còn update thì có rồi và tìm kiếm book theo ID  rồi sửa
+
+và đều sử dụng method POST("/book/savve") book_form 
+
+
+
+Kết quả :
+
+Bước 5 : Delete Book thì cũng tương tự tìm kiềm theo id rồi xóa
+
+
+
+
+Bước 6 : Tìm kiếm theo Id :
+
+Em sử dụng request Param nhập ID trong allbook :
+
+
+
+
+KQ:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
