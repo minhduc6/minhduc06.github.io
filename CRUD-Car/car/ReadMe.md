@@ -37,6 +37,8 @@ Bước 6 : Sử dụng các method HTTP POST,GET để xử lý từng nghiệp
 
 
 ![6](https://user-images.githubusercontent.com/72613060/134252006-5937f25b-89cb-4873-bb11-e5422b44e034.png)
+
+
 ![6 1](https://user-images.githubusercontent.com/72613060/134252015-cf85afe8-a336-477f-8e5d-baa6c15568b1.png)
 
 
@@ -89,10 +91,12 @@ Thêm Car :
 ![add1](https://user-images.githubusercontent.com/72613060/134252202-bcd9eeb2-7d34-4dcf-907f-1a44fd674d3c.png)
 
 Sửa Car :
+
 ![update](https://user-images.githubusercontent.com/72613060/134252216-19ed11fc-ae0a-4327-9950-f3acb82c0778.png)
 
 
 Xóa Car có id 5 :
+
 ![delete](https://user-images.githubusercontent.com/72613060/134252231-4a22311d-465f-4b70-997b-d6e4be9480de.png)
 
 
@@ -101,11 +105,20 @@ Tìm Kiếm theo keyword  = me:
 ![search](https://user-images.githubusercontent.com/72613060/134252275-5cc283c0-beff-4af3-9f9d-20fabc180584.png)
 
 
+Chitiet Car :
+
+![20001](https://user-images.githubusercontent.com/72613060/134252576-32b99884-dfb2-4c88-88a9-54f7ceaed21c.png)
+
+
+
+
 Sắp xếp theo price :
+
 ![price](https://user-images.githubusercontent.com/72613060/134252255-48a27a26-e075-4286-be97-db3fddce8e2e.png)
 
 
 Sắp xếp theo name Model :
+
 ![name](https://user-images.githubusercontent.com/72613060/134252280-8e175003-bff3-41ab-a0d4-562ffcb95e5a.png)
 
 
